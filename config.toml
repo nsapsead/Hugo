@@ -1,0 +1,21 @@
+baseURL = 'http://sapsead.me/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme ='LoveIt'
+# config.toml
+
+
+[[menu.main]]
+  name = "Home"
+  weight = 1
+  url = "/"
+
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "/about"
+
+[[menu.main]]
+  name = "Blog"
+  weight = 3
+  url = "/posts"
