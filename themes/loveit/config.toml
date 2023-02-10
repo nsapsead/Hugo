@@ -14,9 +14,9 @@
   # date format
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
-  title = "Nick Sapsead"
+  title = ""
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "This is my cool site"
+  description = "The ramblings of a quasi tech professional"
   # website images for Open Graph and Twitter Cards
   images = []
 
@@ -120,7 +120,7 @@
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
-      gravatarEmail = ""
+      gravatarEmail = "nsapsead@gmail.com"
       # URL of avatar shown in home page
       avatarURL = ""
       # title shown in home page (HTML format is supported)
@@ -129,13 +129,13 @@
       subtitle = "This is my cool site"
       # whether to use typeit animation for subtitle
       # special amount of posts in each home posts page
-    Linkedin = ""
-    Twitter = ""
+    Linkedin = "nicholassapsead"
+    Twitter = "nsapsead"
     Instagram = ""
     Facebook = ""
     Telegram = ""
     Medium = ""
-    Gitlab = ""
+    Gitlab = "nsapsead"
     Youtubelegacy = ""
     Youtubecustom = ""
     Youtubechannel = ""
@@ -218,14 +218,14 @@
       # whether to add ScaleControl (https://docs.mapbox.com/mapbox-gl-js/api/#scalecontrol)
       # whether to add FullscreenControl (https://docs.mapbox.com/mapbox-gl-js/api/#fullscreencontrol)
     # Social share links in post page
-      enable = true
-      Twitter = true
-      Facebook = true
+      GitHub = false
+      #Twitter = false
+      #Facebook = false
       Linkedin = false
       Whatsapp = false
       Pinterest = false
       Tumblr = false
-      HackerNews = true
+      HackerNews = false
       Reddit = false
       VK = false
       Buffer = false
@@ -282,7 +282,6 @@
         # "assets/lib/valine/emoji/"
         emoji = ""
       # Facebook comment config (https://developers.facebook.com/docs/plugins/comments)
-      # Facebook 评论系统设置 (https://developers.facebook.com/docs/plugins/comments)
       [params.page.comment.facebook]
         enable = false
         width = "100%"

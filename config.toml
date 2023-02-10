@@ -1,8 +1,9 @@
+# config.toml
 baseURL = 'http://sapsead.me/'
 languageCode = 'en-us'
 title = 'Nick Sapsead'
 theme ='LoveIt'
-# config.toml
+
 
 [[menu.main]]
   name = "Home"
