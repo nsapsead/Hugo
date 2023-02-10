@@ -1,9 +1,8 @@
 baseURL = 'http://sapsead.me/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Nick Sapsead'
 theme ='LoveIt'
 # config.toml
-
 
 [[menu.main]]
   name = "Home"
