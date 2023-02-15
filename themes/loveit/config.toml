@@ -178,7 +178,7 @@
     # Home page posts
    
     [params.home.posts]
-      enable = false
+      enable = true
       # special amount of posts in each home posts page
       paginate = 6
   # Social config in home page
@@ -283,7 +283,7 @@
     # Table of the contents config
     [params.page.toc]
       # whether to enable the table of the contents
-      enable = false
+      enable = true
       # whether to keep the static table of the contents in front of the post
       keepStatic = true
       # whether to make the table of the contents in the sidebar automatically collapsed

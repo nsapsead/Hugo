@@ -4,7 +4,7 @@ languageCode = 'en-us'
 title = 'Nick Sapsead'
 theme ='LoveIt'
 
-
+[menu]
 [[menu.main]]
   name = "Home"
   weight = 1
@@ -19,3 +19,8 @@ theme ='LoveIt'
   name = "Blog"
   weight = 3
   url = "/posts"
+
+#[[menu.main]]
+ # name = "buy me a Coffee"
+  # weight = 4
+ # url = "buymeacoffee.com/nsapsead"
