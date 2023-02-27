@@ -4,6 +4,10 @@ languageCode = 'en-us'
 title = 'Nick Sapsead'
 theme ='LoveIt'
 
+[module]
+  [[module.imports]]
+    path = "github.com/dillonzq/LoveIt"
+
 [menu]
 [[menu.main]]
   name = "Home"
