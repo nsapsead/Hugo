@@ -1,6 +1,6 @@
 baseURL = "https://sapsead.me/"
 title = "Nick Sapsead"
-theme = "LoveIt"
+theme = [ "LoveIt", "mytheme" ] 
 
 [params]
 author = "Nick Sapsead"
