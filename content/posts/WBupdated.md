@@ -1,9 +1,62 @@
 ---
-title: "The White Belt Instructor"
-date: 2023-03-03T14:00:27+11:00
-draft: true
+title: "Thoughts on White Belt Instructors"
+subtitle: "We have all seen them on the mats"
+date: 2023-03-05T02:09:29+11:00
+lastmod: 2023-03-05T02:09:29+11:00
+draft: false
 author: "Nick Sapsead"
+authorLink: ""
+description: ""
+license: ""
+images: []
 
+tags: []
+categories: []
+
+featuredImage: ""
+featuredImagePreview: ""
+
+hiddenFromHomePage: true
+hiddenFromSearch: false
+twemoji: false
+lightgallery: true
+ruby: true
+fraction: true
+fontawesome: true
+linkToMarkdown: true
+rssFullText: false
+
+toc:
+  enable: true
+  auto: true
+code:
+  copy: true
+  maxShownLines: 50
+math:
+  enable: false
+  # ...
+mapbox:
+  # ...
+share:
+  enable: true
+  # ...
+comment:
+  enable: true
+  # ...
+library:
+  css:
+    # someCSS = "some.css"
+    # located in "assets/"
+    # Or
+    # someCSS = "https://cdn.example.com/some.css"
+  js:
+    # someJS = "some.js"
+    # located in "assets/"
+    # Or
+    # someJS = "https://cdn.example.com/some.js"
+seo:
+  images: []
+  # ...
 ---
 ### The Paradox of the White Belt Instructor
 
@@ -16,3 +69,5 @@ Teaching can also be a great way for white belts to solidify their understanding
 It is important to note, however, that there are limitations to what white belt instructors should be teaching. White belts should focus on basic techniques and concepts that are fundamental to the art, and avoid trying to teach advanced techniques or strategies beyond their level of understanding. It is also crucial for white belt instructors to recognise their own limitations and not overestimate their knowledge or abilities.
 
 Finally, embracing and encouraging a mindset where white belts can learn to breakdown and understand a technique, to a level where they can reliably teach this to a beginner will result in a better experience for all students.  It is incumbent on senior belts to shift away from ridicule of this practice and instead encourage this within a solid framework of feedback and improvement. By doing so, we can all contribute to a positive and supportive learning environment within the Jiu-Jitsu community.
+
+<!--more-->
