@@ -1,6 +1,6 @@
 baseURL = "https://sapsead.me/"
 title = "Nick Sapsead"
-theme = [ "LoveIt", "mytheme" ] 
+theme = "LoveIt" 
 
 [params]
 author = "Nick Sapsead"
@@ -17,5 +17,5 @@ description = "A Spot for my Ramblings"
     weight = 2
   [[menu.main]]
     name = "Posts"
-    url = "/posts/"
+    url = "/posts"
     weight = 3
