@@ -36,7 +36,7 @@
 
     [params.header.title]
       # URL of the LOGO
-      logo = "https://github.com/nsapsead.png"
+      logo = ""
       
       # title name
       name = "Nick Sapsead"
@@ -283,9 +283,9 @@
     # Table of the contents config
     [params.page.toc]
       # whether to enable the table of the contents
-      enable = true
+      enable = false
       # whether to keep the static table of the contents in front of the post
-      keepStatic = true
+      keepStatic = false
       # whether to make the table of the contents in the sidebar automatically collapsed
       auto = true
     
